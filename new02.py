@@ -1,1 +1,1 @@
-pring('new02')
+pring('devnew02')
