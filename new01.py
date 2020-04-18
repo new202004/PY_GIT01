@@ -1,4 +1,3 @@
 print('new01')
-<<<<<<< HEAD
-print('master')
+print('master1')
 
